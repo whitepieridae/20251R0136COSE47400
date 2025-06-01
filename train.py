@@ -1,3 +1,4 @@
+# change the csrnet_cbam to csrnet at line 5, 24, 113 if using csrnet only
 import sys
 import os
 import warnings
